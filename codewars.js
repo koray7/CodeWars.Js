@@ -29,3 +29,17 @@
 
 //   return result;
 // };
+
+// Returning the average of the given array rounded down to its nearest integer.
+
+// function getAverage(marks) {
+
+//   var total = 0;
+//   for (var i = 0; i < marks.length; i++) {
+//     total += marks[i];
+//   }
+
+//   /* returns total number of marks divided by number of marks
+
+//   return Math.floor(total / marks.length);
+// }
